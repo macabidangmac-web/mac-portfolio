@@ -3,6 +3,7 @@
 ## Single-Page CV
 
 This project is a single-page HTML CV that showcases my career history, education, and skills in a clean and semantic structure.
+https://roadmap.sh/projects/single-page-cv
 
 ## Project Goal
 
