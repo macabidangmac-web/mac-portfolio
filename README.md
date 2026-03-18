@@ -45,3 +45,6 @@ By completing this project, I practiced:
 ## Project Status
 
 Completed and ready for submission.
+
+## Reference
+- roadmap.sh solutions: https://roadmap.sh/projects/single-page-cv/solutions?u=69ba070e33a0ad7a573ca626
